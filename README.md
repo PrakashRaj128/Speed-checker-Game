@@ -1,1 +1,1 @@
-# Speed-checker-Game
+Project 20 of WhiteHat Jr. -Krish Garg
